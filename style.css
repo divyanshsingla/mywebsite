@@ -1,8 +1,9 @@
 body {
+    background-color: #000000;
     margin: 0 auto;
     text-align: center;
     font-family: "Merriweather", serif;
-    color: #40514E;
+    color: #EAF6F6;
 }
 p{
     line-height: 2;
@@ -38,7 +39,7 @@ hr{
 }
 
 .topcontainer {
-    background-color: #e4f9f5;
+    background-color: #2B2B2B;
     position: relative;
     padding-top: 200px;
 }
@@ -46,37 +47,38 @@ hr{
     padding: 100px;
 }
 .bottomcontainer{
-    background-color: #66BFBF;
+    background-color: #2B2B2B;
     padding: 40px;
    
 
 }
 .top-cloud {
     position: absolute;
-    right: 16.25rem;
-    top: 7.125rem;
-    width: 12.5rem;
-    height: 7rem;
+    right: 15%;
+    top: 5%;
+    width: 16%;
+    height: 15%;
 }
 
 .bottom-cloud {
     position: absolute;
-    left: 8.875rem;
-    bottom: 18.75rem;
-    width: 12.5rem;
-    height: 7rem;
+    left: 15%;
+    bottom: 30%;
+    width: 15%;
+    height: 15%;
 }
 
 .Mountain {
-    height: 25rem;
-    width: 43.75rem;
+    
+    height: 40%;
+    width: 70%;
 }
 
 .pro {
     text-decoration: underline;
 }
 .intro{
-    width: 40%;
+    width: 60%;
     margin: auto;
 }
 
@@ -92,7 +94,7 @@ hr{
 }
 
 .skill-row{
-    width: 50%;
+    width: 60%;
     margin: 100px auto 100px;
     text-align: left;
     
@@ -110,7 +112,7 @@ hr{
 }
 
 .contact-me{
-    width: 40%;
+    width: 60%;
     margin: 40px auto 60px;
 }
 .btn{
